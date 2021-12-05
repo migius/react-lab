@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/40072cb5-904d-4fdf-a4b6-ee5378eb5030/deploy-status)](https://app.netlify.com/sites/migio-react-lab/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
